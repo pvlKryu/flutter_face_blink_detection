@@ -1,4 +1,4 @@
-# face_blink_datection
+# face_blink_datection - work in progress
 
 A new Flutter project.
 
